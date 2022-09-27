@@ -3,6 +3,8 @@ multipassify
 
 Shopify Multipass module for Node.js
 
+Shopify documentation linl [Multipass](https://shopify.dev/api/multipass).
+
 
 
 [Shopify](http://shopify.com) provides a mechanism for single sign-on known as Multipass.  Multipass uses an AES encrypted JSON hash and multipassify provides functions for generating tokens
