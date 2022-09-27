@@ -3,7 +3,7 @@ multipassify
 
 Shopify Multipass module for Node.js
 
-Shopify documentation linl [Multipass](https://shopify.dev/api/multipass).
+Shopify documentation link [Multipass](https://shopify.dev/api/multipass).
 
 
 
